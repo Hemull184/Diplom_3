@@ -17,18 +17,23 @@
         <aspectj.version>1.9.7</aspectj.version>
         <!--  версия Allure  -->
         <allure.version>2.20.1</allure.version>
-        <junit.version>5.9.1</junit.version>
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
         <!-- модуль взаимодействия Allure и Junit -->
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-junit4</artifactId>
             <version>${allure.version}</version>
         </dependency>
+        <!-- модуль взаимодействия Allure и RestAssured -->
         <dependency>
-            <!-- модуль взаимодействия Allure и RestAssured -->
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-rest-assured</artifactId>
             <version>${allure.version}</version>
@@ -44,12 +49,6 @@
             <version>3.141.59</version>
         </dependency>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.13.2</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
             <version>17.0.2</version>
@@ -59,18 +58,10 @@
             <artifactId>javafx-fxml</artifactId>
             <version>17.0.2</version>
         </dependency>
-
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>${junit.version}</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-engine</artifactId>
-            <version>${junit.version}</version>
-            <scope>test</scope>
+         <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>1.7.13</version>
         </dependency>
     </dependencies>
 
@@ -123,26 +114,6 @@
                     <source>11</source>
                     <target>11</target>
                 </configuration>
-            </plugin>
-            <plugin>
-                <groupId>org.openjfx</groupId>
-                <artifactId>javafx-maven-plugin</artifactId>
-                <version>0.0.8</version>
-                <executions>
-                    <execution>
-                        <!-- Default configuration for running with: mvn clean javafx:run -->
-                        <id>default-cli</id>
-                        <configuration>
-                            <mainClass>com.example.diplom_3/com.example.diplom_3.HelloApplication</mainClass>
-                            <launcher>app</launcher>
-                            <jlinkZipName>app</jlinkZipName>
-                            <jlinkImageName>app</jlinkImageName>
-                            <noManPages>true</noManPages>
-                            <stripDebug>true</stripDebug>
-                            <noHeaderFiles>true</noHeaderFiles>
-                        </configuration>
-                    </execution>
-                </executions>
             </plugin>
         </plugins>
     </build>

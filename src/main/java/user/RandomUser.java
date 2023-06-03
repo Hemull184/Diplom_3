@@ -9,10 +9,10 @@ public class RandomUser {
     }
 
     public static final String KEY_DRIVER = "webdriver.chrome.driver";
-    public static final String VALUE_PATH = "src/test/resources/WebDriver/bin/";
+    public static final String VALUE_PATH = "src\\test\\resources\\WebDriver\\bin\\";
 
     public static final Object[][] DATA = new Object[][]{
-            {"chromedriver"},
-            {"yandexdriver"}
+            {"chromedriver.exe"},
+            {"yandexdriver.exe"}
     };
 }

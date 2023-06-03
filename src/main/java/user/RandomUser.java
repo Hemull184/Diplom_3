@@ -12,7 +12,7 @@ public class RandomUser {
     public static final String VALUE_PATH = "src/test/resources/WebDriver/bin/";
 
     public static final Object[][] DATA = new Object[][]{
-            {"chromedriver.exe"},
-            {"yandexdriver.exe"}
+            {"chromedriver"},
+            {"yandexdriver"}
     };
 }

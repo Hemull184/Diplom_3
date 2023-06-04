@@ -1,1 +1,241 @@
-[{"uid":"8f82064f0daffb80","name":"Тест входа по кнопке в форме регистрации","time":{"start":1685893855185,"stop":1685893855190,"duration":5},"status":"broken","severity":"normal"},{"uid":"326e4db974a48d43","name":"Тест начинок","time":{"start":1685893854646,"stop":1685893854674,"duration":28},"status":"broken","severity":"normal"},{"uid":"2b485ad92e7cc5e0","name":"Тест входа по кнопке в форме восстановления пароля","time":{"start":1685893855166,"stop":1685893855168,"duration":2},"status":"broken","severity":"normal"},{"uid":"ae05474aab92f6c","name":"Тест перехода из ЛК в конструктор ","time":{"start":1685893853634,"stop":1685893853701,"duration":67},"status":"broken","severity":"normal"},{"uid":"d39ab10f3830281b","name":"Тест входа по кнопке в форме регистрации","time":{"start":1685893855108,"stop":1685893855141,"duration":33},"status":"broken","severity":"normal"},{"uid":"f8e5bb1a2d1a8a5b","name":"Тест входа по кнопке в ЛК","time":{"start":1685893855157,"stop":1685893855161,"duration":4},"status":"broken","severity":"normal"},{"uid":"8c39780fa4c3741d","name":"Тест перехода из ЛК  по Stellar Burgers в конструктор ","time":{"start":1685893853188,"stop":1685893853339,"duration":151},"status":"broken","severity":"normal"},{"uid":"a714cdaa85412a02","name":"Тест входа по кнопке в форме восстановления пароля","time":{"start":1685893854990,"stop":1685893855003,"duration":13},"status":"broken","severity":"normal"},{"uid":"44971c6296f27719","name":"Тест регистрации с корректным паролем","time":{"start":1685893854099,"stop":1685893854541,"duration":442},"status":"broken","severity":"normal"},{"uid":"34f8d26b6da4021d","name":"Тест входа по кнопке «Войти в аккаунт» на главной странице","time":{"start":1685893855177,"stop":1685893855181,"duration":4},"status":"broken","severity":"normal"},{"uid":"198883c8ff8274cd","name":"Тест соусов","time":{"start":1685893854607,"stop":1685893854618,"duration":11},"status":"broken","severity":"normal"},{"uid":"41f5c4923a8374e6","name":"Тест входа по кнопке «Войти в аккаунт» на главной странице","time":{"start":1685893855010,"stop":1685893855051,"duration":41},"status":"broken","severity":"normal"},{"uid":"b0e21bc21c0fafca","name":"Тест регистрации с корректным паролем","time":{"start":1685893853902,"stop":1685893853935,"duration":33},"status":"broken","severity":"normal"},{"uid":"ed255b1334ee9461","name":"Тест регистрации c некорректный паролем","time":{"start":1685893853852,"stop":1685893853872,"duration":20},"status":"broken","severity":"normal"},{"uid":"1176eac7531f3bfe","name":"Тест соусов","time":{"start":1685893854726,"stop":1685893854743,"duration":17},"status":"broken","severity":"normal"},{"uid":"9b60be349f5c3862","name":"Тест булок","time":{"start":1685893854706,"stop":1685893854712,"duration":6},"status":"broken","severity":"normal"},{"uid":"4439352c463a0b54","name":"Тест булок","time":{"start":1685893854587,"stop":1685893854591,"duration":4},"status":"broken","severity":"normal"},{"uid":"8d3ca9cf33a743af","name":"Тест выхода из аккаунта","time":{"start":1685893853426,"stop":1685893853494,"duration":68},"status":"broken","severity":"normal"},{"uid":"dcd75dc42bde024","name":"Тест перехода из ЛК в конструктор ","time":{"start":1685893853395,"stop":1685893853405,"duration":10},"status":"broken","severity":"normal"},{"uid":"1369be9a491d542d","name":"Тест регистрации c некорректный паролем","time":{"start":1685893854007,"stop":1685893854044,"duration":37},"status":"broken","severity":"normal"},{"uid":"fd851e2547d8ea11","name":"Тест начинок","time":{"start":1685893854768,"stop":1685893854830,"duration":62},"status":"broken","severity":"normal"},{"uid":"160400476f88f225","name":"Тест перехода из ЛК  по Stellar Burgers в конструктор ","time":{"start":1685893853534,"stop":1685893853589,"duration":55},"status":"broken","severity":"normal"},{"uid":"a457df4265f2f29c","name":"Тест выхода из аккаунта","time":{"start":1685893850951,"stop":1685893851927,"duration":976},"status":"broken","severity":"normal"},{"uid":"59795caefd84ce0e","name":"Тест входа по кнопке в ЛК","time":{"start":1685893855193,"stop":1685893855197,"duration":4},"status":"broken","severity":"normal"}]
+[ {
+  "uid" : "fadc093f79f41506",
+  "name" : "Тест перехода из ЛК в конструктор ",
+  "time" : {
+    "start" : 1685899526890,
+    "stop" : 1685899534634,
+    "duration" : 7744
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d53f435f8279d3b",
+  "name" : "Тест регистрации c некорректный паролем",
+  "time" : {
+    "start" : 1685899534688,
+    "stop" : 1685899538541,
+    "duration" : 3853
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72b56983f75c42f1",
+  "name" : "Тест входа по кнопке в форме восстановления пароля",
+  "time" : {
+    "start" : 1685899558243,
+    "stop" : 1685899563010,
+    "duration" : 4767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f132cb4292cdf6c8",
+  "name" : "Тест регистрации c некорректный паролем",
+  "time" : {
+    "start" : 1685899543146,
+    "stop" : 1685899550865,
+    "duration" : 7719
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec5a7699b98ea075",
+  "name" : "Тест выхода из аккаунта",
+  "time" : {
+    "start" : 1685899490457,
+    "stop" : 1685899496758,
+    "duration" : 6301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0f27e7ed0662c58",
+  "name" : "Тест булок",
+  "time" : {
+    "start" : 1685899441926,
+    "stop" : 1685899453348,
+    "duration" : 11422
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "440cd7dd3e4b1683",
+  "name" : "Тест входа по кнопке в форме восстановления пароля",
+  "time" : {
+    "start" : 1685899583466,
+    "stop" : 1685899591673,
+    "duration" : 8207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58cecbd02882a492",
+  "name" : "Тест входа по кнопке «Войти в аккаунт» на главной странице",
+  "time" : {
+    "start" : 1685899591683,
+    "stop" : 1685899600100,
+    "duration" : 8417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62e7c6deb98ab3f0",
+  "name" : "Тест входа по кнопке в ЛК",
+  "time" : {
+    "start" : 1685899576099,
+    "stop" : 1685899583462,
+    "duration" : 7363
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d42e2d1357478ee4",
+  "name" : "Тест булок",
+  "time" : {
+    "start" : 1685899464845,
+    "stop" : 1685899476402,
+    "duration" : 11557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "905f3ae241f72b23",
+  "name" : "Тест начинок",
+  "time" : {
+    "start" : 1685899458033,
+    "stop" : 1685899464836,
+    "duration" : 6803
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2fac1c546970539",
+  "name" : "Тест входа по кнопке в ЛК",
+  "time" : {
+    "start" : 1685899609423,
+    "stop" : 1685899618391,
+    "duration" : 8968
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ce6c5356afae458",
+  "name" : "Тест перехода из ЛК  по Stellar Burgers в конструктор ",
+  "time" : {
+    "start" : 1685899496772,
+    "stop" : 1685899501767,
+    "duration" : 4995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "721f4b79c93093f2",
+  "name" : "Тест входа по кнопке в форме регистрации",
+  "time" : {
+    "start" : 1685899567916,
+    "stop" : 1685899576094,
+    "duration" : 8178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa88a5b737f92e8f",
+  "name" : "Тест перехода из ЛК в конструктор ",
+  "time" : {
+    "start" : 1685899501771,
+    "stop" : 1685899506393,
+    "duration" : 4622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d997da4bf0dd55a6",
+  "name" : "Тест начинок",
+  "time" : {
+    "start" : 1685899483077,
+    "stop" : 1685899490302,
+    "duration" : 7225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1461896c41f7901",
+  "name" : "Тест соусов",
+  "time" : {
+    "start" : 1685899476411,
+    "stop" : 1685899483068,
+    "duration" : 6657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d05c9e8c34c54d9",
+  "name" : "Тест перехода из ЛК  по Stellar Burgers в конструктор ",
+  "time" : {
+    "start" : 1685899519200,
+    "stop" : 1685899526878,
+    "duration" : 7678
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f349af135a70e43e",
+  "name" : "Тест выхода из аккаунта",
+  "time" : {
+    "start" : 1685899506398,
+    "stop" : 1685899519179,
+    "duration" : 12781
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22d3f27ae82f5cc7",
+  "name" : "Тест регистрации с корректным паролем",
+  "time" : {
+    "start" : 1685899550870,
+    "stop" : 1685899558180,
+    "duration" : 7310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee5a9541ec5acde7",
+  "name" : "Тест соусов",
+  "time" : {
+    "start" : 1685899453710,
+    "stop" : 1685899458022,
+    "duration" : 4312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13fa1d620abd2bdc",
+  "name" : "Тест регистрации с корректным паролем",
+  "time" : {
+    "start" : 1685899538551,
+    "stop" : 1685899543134,
+    "duration" : 4583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87dd1b1e81df6b0b",
+  "name" : "Тест входа по кнопке в форме регистрации",
+  "time" : {
+    "start" : 1685899600104,
+    "stop" : 1685899609419,
+    "duration" : 9315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc6be74502a6951",
+  "name" : "Тест входа по кнопке «Войти в аккаунт» на главной странице",
+  "time" : {
+    "start" : 1685899563014,
+    "stop" : 1685899567911,
+    "duration" : 4897
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

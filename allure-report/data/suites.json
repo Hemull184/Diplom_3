@@ -1,1 +1,333 @@
-{"uid":"98d3104e051c652961429bf95fa0b5d6","children":[{"name":"PersonalAccountTest","children":[{"name":"Тест выхода из аккаунта","uid":"a457df4265f2f29c","parentUid":"cae192261b022c19da1b6b1260cb0189","status":"broken","time":{"start":1685893850951,"stop":1685893851927,"duration":976},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест перехода из ЛК  по Stellar Burgers в конструктор ","uid":"8c39780fa4c3741d","parentUid":"cae192261b022c19da1b6b1260cb0189","status":"broken","time":{"start":1685893853188,"stop":1685893853339,"duration":151},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест перехода из ЛК в конструктор ","uid":"dcd75dc42bde024","parentUid":"cae192261b022c19da1b6b1260cb0189","status":"broken","time":{"start":1685893853395,"stop":1685893853405,"duration":10},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест выхода из аккаунта","uid":"8d3ca9cf33a743af","parentUid":"cae192261b022c19da1b6b1260cb0189","status":"broken","time":{"start":1685893853426,"stop":1685893853494,"duration":68},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест перехода из ЛК  по Stellar Burgers в конструктор ","uid":"160400476f88f225","parentUid":"cae192261b022c19da1b6b1260cb0189","status":"broken","time":{"start":1685893853534,"stop":1685893853589,"duration":55},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест перехода из ЛК в конструктор ","uid":"ae05474aab92f6c","parentUid":"cae192261b022c19da1b6b1260cb0189","status":"broken","time":{"start":1685893853634,"stop":1685893853701,"duration":67},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"cae192261b022c19da1b6b1260cb0189"},{"name":"RegistrationTest","children":[{"name":"Тест регистрации c некорректный паролем","uid":"ed255b1334ee9461","parentUid":"69284e8223e4673c9952b238191a3c05","status":"broken","time":{"start":1685893853852,"stop":1685893853872,"duration":20},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест регистрации с корректным паролем","uid":"b0e21bc21c0fafca","parentUid":"69284e8223e4673c9952b238191a3c05","status":"broken","time":{"start":1685893853902,"stop":1685893853935,"duration":33},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест регистрации c некорректный паролем","uid":"1369be9a491d542d","parentUid":"69284e8223e4673c9952b238191a3c05","status":"broken","time":{"start":1685893854007,"stop":1685893854044,"duration":37},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест регистрации с корректным паролем","uid":"44971c6296f27719","parentUid":"69284e8223e4673c9952b238191a3c05","status":"broken","time":{"start":1685893854099,"stop":1685893854541,"duration":442},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"69284e8223e4673c9952b238191a3c05"},{"name":"HomePageTest","children":[{"name":"Тест булок","uid":"4439352c463a0b54","parentUid":"9cbeee9642f9a99daebe33b128ffe5d4","status":"broken","time":{"start":1685893854587,"stop":1685893854591,"duration":4},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест соусов","uid":"198883c8ff8274cd","parentUid":"9cbeee9642f9a99daebe33b128ffe5d4","status":"broken","time":{"start":1685893854607,"stop":1685893854618,"duration":11},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест начинок","uid":"326e4db974a48d43","parentUid":"9cbeee9642f9a99daebe33b128ffe5d4","status":"broken","time":{"start":1685893854646,"stop":1685893854674,"duration":28},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест булок","uid":"9b60be349f5c3862","parentUid":"9cbeee9642f9a99daebe33b128ffe5d4","status":"broken","time":{"start":1685893854706,"stop":1685893854712,"duration":6},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест соусов","uid":"1176eac7531f3bfe","parentUid":"9cbeee9642f9a99daebe33b128ffe5d4","status":"broken","time":{"start":1685893854726,"stop":1685893854743,"duration":17},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест начинок","uid":"fd851e2547d8ea11","parentUid":"9cbeee9642f9a99daebe33b128ffe5d4","status":"broken","time":{"start":1685893854768,"stop":1685893854830,"duration":62},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"9cbeee9642f9a99daebe33b128ffe5d4"},{"name":"SingInTest","children":[{"name":"Тест входа по кнопке в форме восстановления пароля","uid":"a714cdaa85412a02","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893854990,"stop":1685893855003,"duration":13},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест входа по кнопке «Войти в аккаунт» на главной странице","uid":"41f5c4923a8374e6","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893855010,"stop":1685893855051,"duration":41},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест входа по кнопке в форме регистрации","uid":"d39ab10f3830281b","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893855108,"stop":1685893855141,"duration":33},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест входа по кнопке в ЛК","uid":"f8e5bb1a2d1a8a5b","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893855157,"stop":1685893855161,"duration":4},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест входа по кнопке в форме восстановления пароля","uid":"2b485ad92e7cc5e0","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893855166,"stop":1685893855168,"duration":2},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест входа по кнопке «Войти в аккаунт» на главной странице","uid":"34f8d26b6da4021d","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893855177,"stop":1685893855181,"duration":4},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест входа по кнопке в форме регистрации","uid":"8f82064f0daffb80","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893855185,"stop":1685893855190,"duration":5},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Тест входа по кнопке в ЛК","uid":"59795caefd84ce0e","parentUid":"bea202f21665102e952ae2e10e910fb9","status":"broken","time":{"start":1685893855193,"stop":1685893855197,"duration":4},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"bea202f21665102e952ae2e10e910fb9"}],"name":"suites"}
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "HomePageTest",
+    "children" : [ {
+      "name" : "Тест булок",
+      "uid" : "e0f27e7ed0662c58",
+      "parentUid" : "9cbeee9642f9a99daebe33b128ffe5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899441926,
+        "stop" : 1685899453348,
+        "duration" : 11422
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест соусов",
+      "uid" : "ee5a9541ec5acde7",
+      "parentUid" : "9cbeee9642f9a99daebe33b128ffe5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899453710,
+        "stop" : 1685899458022,
+        "duration" : 4312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест начинок",
+      "uid" : "905f3ae241f72b23",
+      "parentUid" : "9cbeee9642f9a99daebe33b128ffe5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899458033,
+        "stop" : 1685899464836,
+        "duration" : 6803
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест булок",
+      "uid" : "d42e2d1357478ee4",
+      "parentUid" : "9cbeee9642f9a99daebe33b128ffe5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899464845,
+        "stop" : 1685899476402,
+        "duration" : 11557
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест соусов",
+      "uid" : "e1461896c41f7901",
+      "parentUid" : "9cbeee9642f9a99daebe33b128ffe5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899476411,
+        "stop" : 1685899483068,
+        "duration" : 6657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест начинок",
+      "uid" : "d997da4bf0dd55a6",
+      "parentUid" : "9cbeee9642f9a99daebe33b128ffe5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899483077,
+        "stop" : 1685899490302,
+        "duration" : 7225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9cbeee9642f9a99daebe33b128ffe5d4"
+  }, {
+    "name" : "PersonalAccountTest",
+    "children" : [ {
+      "name" : "Тест выхода из аккаунта",
+      "uid" : "ec5a7699b98ea075",
+      "parentUid" : "cae192261b022c19da1b6b1260cb0189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899490457,
+        "stop" : 1685899496758,
+        "duration" : 6301
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест перехода из ЛК  по Stellar Burgers в конструктор ",
+      "uid" : "6ce6c5356afae458",
+      "parentUid" : "cae192261b022c19da1b6b1260cb0189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899496772,
+        "stop" : 1685899501767,
+        "duration" : 4995
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест перехода из ЛК в конструктор ",
+      "uid" : "fa88a5b737f92e8f",
+      "parentUid" : "cae192261b022c19da1b6b1260cb0189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899501771,
+        "stop" : 1685899506393,
+        "duration" : 4622
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест выхода из аккаунта",
+      "uid" : "f349af135a70e43e",
+      "parentUid" : "cae192261b022c19da1b6b1260cb0189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899506398,
+        "stop" : 1685899519179,
+        "duration" : 12781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест перехода из ЛК  по Stellar Burgers в конструктор ",
+      "uid" : "1d05c9e8c34c54d9",
+      "parentUid" : "cae192261b022c19da1b6b1260cb0189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899519200,
+        "stop" : 1685899526878,
+        "duration" : 7678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест перехода из ЛК в конструктор ",
+      "uid" : "fadc093f79f41506",
+      "parentUid" : "cae192261b022c19da1b6b1260cb0189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899526890,
+        "stop" : 1685899534634,
+        "duration" : 7744
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cae192261b022c19da1b6b1260cb0189"
+  }, {
+    "name" : "RegistrationTest",
+    "children" : [ {
+      "name" : "Тест регистрации c некорректный паролем",
+      "uid" : "8d53f435f8279d3b",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899534688,
+        "stop" : 1685899538541,
+        "duration" : 3853
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест регистрации с корректным паролем",
+      "uid" : "13fa1d620abd2bdc",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899538551,
+        "stop" : 1685899543134,
+        "duration" : 4583
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест регистрации c некорректный паролем",
+      "uid" : "f132cb4292cdf6c8",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899543146,
+        "stop" : 1685899550865,
+        "duration" : 7719
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест регистрации с корректным паролем",
+      "uid" : "22d3f27ae82f5cc7",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899550870,
+        "stop" : 1685899558180,
+        "duration" : 7310
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "69284e8223e4673c9952b238191a3c05"
+  }, {
+    "name" : "SingInTest",
+    "children" : [ {
+      "name" : "Тест входа по кнопке в форме восстановления пароля",
+      "uid" : "72b56983f75c42f1",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899558243,
+        "stop" : 1685899563010,
+        "duration" : 4767
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест входа по кнопке «Войти в аккаунт» на главной странице",
+      "uid" : "8fc6be74502a6951",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899563014,
+        "stop" : 1685899567911,
+        "duration" : 4897
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест входа по кнопке в форме регистрации",
+      "uid" : "721f4b79c93093f2",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899567916,
+        "stop" : 1685899576094,
+        "duration" : 8178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест входа по кнопке в ЛК",
+      "uid" : "62e7c6deb98ab3f0",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899576099,
+        "stop" : 1685899583462,
+        "duration" : 7363
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест входа по кнопке в форме восстановления пароля",
+      "uid" : "440cd7dd3e4b1683",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899583466,
+        "stop" : 1685899591673,
+        "duration" : 8207
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест входа по кнопке «Войти в аккаунт» на главной странице",
+      "uid" : "58cecbd02882a492",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899591683,
+        "stop" : 1685899600100,
+        "duration" : 8417
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест входа по кнопке в форме регистрации",
+      "uid" : "87dd1b1e81df6b0b",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899600104,
+        "stop" : 1685899609419,
+        "duration" : 9315
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест входа по кнопке в ЛК",
+      "uid" : "d2fac1c546970539",
+      "parentUid" : "bea202f21665102e952ae2e10e910fb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685899609423,
+        "stop" : 1685899618391,
+        "duration" : 8968
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bea202f21665102e952ae2e10e910fb9"
+  } ]
+}

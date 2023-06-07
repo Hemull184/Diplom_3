@@ -17,6 +17,7 @@ public class SingInPage {
     private final By SING_IN_TEXT = By.xpath("//*[text()='Вход']");
 
     private final WebDriver driver;
+
     public SingInPage(WebDriver driver) {
         this.driver = driver;
     }
@@ -25,20 +26,37 @@ public class SingInPage {
     public void filledEmail(String email) {
         driver.findElement(EMAIL_FIELD).sendKeys(email);
     }
+
     @Step("Запонить поле password")
     public void filledPassword(String password) {
         driver.findElement(PASSWORD_FIELD).sendKeys(password);
     }
+
     @Step("Нажать на кнопку Вход")
-    public void clickSignInButton() { driver.findElement(SING_IN_BUTTON).click(); }
+    public void clickSignInButton() {
+        driver.findElement(SING_IN_BUTTON).click();
+    }
+
     @Step("Нажать на кнопку регистрация")
-    public void clickRegistrationButton() { driver.findElement(REGISTRATION_BUTTON).click(); }
+    public void clickRegistrationButton() {
+        driver.findElement(REGISTRATION_BUTTON).click();
+    }
+
     @Step("Получить текст 'Вход'")
-    public String getSignInText() { return driver.findElement(SING_IN_TEXT).getText(); }
+    public String getSignInText() {
+        return driver.findElement(SING_IN_TEXT).getText();
+    }
+
     @Step("Нажать на кнопку Востановить пароль")
-    public void clickRecoverPasswordButton() { driver.findElement(RECOVER_PASSWORD_BUTTON).click(); }
+    public void clickRecoverPasswordButton() {
+        driver.findElement(RECOVER_PASSWORD_BUTTON).click();
+    }
+
     @Step("Подожать появления кнопки 'Вход'")
-    public void waitSignInTextText() { WebElement until = new WebDriverWait(driver, 5).until(ExpectedConditions.visibilityOfElementLocated(SING_IN_TEXT)); }
+    public void waitSignInTextText() {
+        WebElement until = new WebDriverWait(driver, 5).until(ExpectedConditions.visibilityOfElementLocated(SING_IN_TEXT));
+    }
+
     @Step("авторизоваться")
     public void SignIn(String email, String password) {
         filledEmail(email);
